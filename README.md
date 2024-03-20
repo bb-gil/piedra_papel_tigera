@@ -18,3 +18,4 @@ empate
 ganaste
 perdiste
 # DISEÑO
+![Diagrama de flujo](diagrama.png "diagrama de flujo")
